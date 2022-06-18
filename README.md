@@ -1,18 +1,16 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+### **<div align="center">🇰🇷 - Cheel</div>**  
   
 
-- ### 💥I'm coding right now.  
+- #### 💥I'm coding right now. 지금 코딩 중이고요.  
   
 
-- ### ⏰ I'm going to coding again later.  
+- #### ⏰ I'm going to coding again later. 이따 코딩할 거고요.  
   
 
-- ### 🛏️I have to coding before I go to bed.  
+- #### 🛏️I have to coding before I go to bed. 자기 전에 코딩해야 하고요.  
   
 
-- ### 💤I'll probably coding in my dreams.  
+- #### 💤I'll probably coding in my dreams. 아마 꿈에서도 코딩해요.  
   
 
 <br/>  
@@ -33,9 +31,9 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miche715&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miche715&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=miche715&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=miche715&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
 <br />
 
 ----
