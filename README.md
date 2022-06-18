@@ -31,17 +31,9 @@
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miche715&hide_border=true&layout=compact" align="left" />  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miche715&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=miche715&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>
+<img src="https://github-readme-stats.vercel.app/api?username=miche715&show_icons=true&count_private=true&hide_border=true" align="left" />
 <br />
 
 ----
