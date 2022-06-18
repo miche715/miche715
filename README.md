@@ -1,16 +1,16 @@
 ## **<div align="center">🇰🇷 - Cheel</div>**  
   
 
-- #### 💥I'm coding right now. 지금 코딩 중이고요.  
+- #### 💥I'm coding right now. 저 지금 코딩하고 있고요.  
   
 
-- #### ⏰ I'm going to coding again later. 이따 코딩할 거고요.  
+- #### ⏰ I'm going to coding again later. 이따 코딩 또 할 거고.  
   
 
-- #### 🛏️I have to coding before I go to bed. 자기 전에 코딩해야 하고요.  
+- #### 🛏️I have to coding before I go to bed. 자기 전에 코딩해야 하고.  
   
 
-- #### 💤I'll probably coding in my dreams. 아마 꿈에서도 코딩해요.  
+- #### 💤I'll probably coding in my dreams. 꿈에서도 아마 코딩해요.  
   
 
 <br/>  
