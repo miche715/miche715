@@ -11,9 +11,8 @@
   
 
 - #### 💤I'll probably coding in my dreams. 꿈에서도 아마 코딩해요.  
- 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=miche715&label=Profile%20views&color=0e75b6&style=flat" alt="miche715" /> </p>
 
+<br/>
 
 ## Tech Stack  
 <div align="center">  
