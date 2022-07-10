@@ -31,9 +31,6 @@
 
 ## GitHub Stat  
   
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miche715" alt="miche715" /></a> </p>
-
-
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=miche715&show_icons=true&count_private=true&hide_border=true&theme=jolly" align="left" style="width: 100%" />
@@ -43,11 +40,3 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miche715&hide_border=true&layout=compact&theme=jolly" align="left" style="width: 100%" />
 
 </td></tr></table>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miche715&" alt="miche715" /></p>
-
-<br />
-   
----  
-
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
