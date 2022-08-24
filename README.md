@@ -1,4 +1,4 @@
-## **<div align="center">🇰🇷 - Cheel</div>**  
+## **<div align="center">🇰🇷 - Cheel/LEE CHANG HEE</div>**  
   
 
 - #### 💥I'm coding right now. 저 지금 코딩하고 있고요.  
