@@ -7,7 +7,7 @@
 - #### ⏰ I'm going to coding again later. 이따 코딩 또 할 거고.  
   
 
-- #### 🛏️I have to coding before I go to bed. 자기 전에 코딩해야 하고.  
+- #### 🛏️I've to coding before I go to bed. 자기 전에 코딩해야 하고.  
   
 
 - #### 💤I'll probably coding in my dreams. 꿈에서도 아마 코딩해요.  
