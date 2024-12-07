@@ -1,4 +1,4 @@
-## **<div align="center">🇰🇷 - Cheel</div>**  
+## **<div align="center">🇰🇷 - nn_che(이창희)</div>**  
   
 
 - #### 💥I'm coding right now. 저 지금 코딩하고 있고요.  
@@ -18,12 +18,12 @@
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="50" />  
+<!-- <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="50" />   -->
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" height="50"/>  
+<!-- <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" height="50"/>   -->
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="50"/>  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" height="50" />  
+<!-- <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="50"/>   -->
+<!-- <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" height="50" />   -->
 </div>  
 
 <br/>  
